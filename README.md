@@ -22,7 +22,6 @@ The installation environment requires opencv, Qt and gcc.
 - Canny edge detection
 5. Morphology
 - Erosion, dilation, opening, closing
-- Morphological reconstruction
 - Thinning and thickening 
 - Skeleton
 - Distance transformation
