@@ -1,6 +1,6 @@
 # Computer-Vision-Project
 
-The project for computer vision provides a user-friendly interface and also implements some classical computer vision algorithm.
+The project for computer vision provides a user-friendly interface and also implements some classical computer vision algorithms.
 
 The installation environment requires opencv, Qt and gcc.
 
