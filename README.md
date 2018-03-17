@@ -26,4 +26,4 @@ The installation environment requires opencv, Qt and gcc.
 - Skeleton
 - Distance transformation
 6. Algebra operation
-- addition, subtraction, multiplication)
+- addition, subtraction, multiplication
